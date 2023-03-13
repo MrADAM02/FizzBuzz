@@ -7,6 +7,7 @@
 
 body{
     color:var(--dark-color);
+    background-color: azure;
 }
 
 nav{
@@ -54,6 +55,20 @@ footer .social>a:hover{
 .checklist>li i{
     color:var(--secondary-color);
 }
+
+.Fizz{
+    color: darkgoldenrod;
+}
+
+.Buzz{
+    color: darkblue;
+}
+
+.FizzBuzz{
+    color:red;
+    font-weight: bold;
+}
+
 
 code[class*="language-"],
         pre[class*="language-"] {
